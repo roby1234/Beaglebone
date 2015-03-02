@@ -1,6 +1,6 @@
 //Name : Onkar Singh
 //Roll no. : B13321
-//Assignment : lab06
+//Assignment : lab05
 //topic : rotary encoder
 
 var b = require('bonescript'),

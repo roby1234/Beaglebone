@@ -1,7 +1,3 @@
-//Name : Onkar Singh
-//Roll no. : B13321
-//Assignment : lab06
-//topic : moving joystick and printing coordinates on console output
 var b = require('bonescript');
 var pos = {};
 var q,w;

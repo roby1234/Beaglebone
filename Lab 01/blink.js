@@ -1,8 +1,7 @@
 //Name : Onkar Singh
 //Roll no. : B13321
-//Assignment : lab02
-//topic : blinking led with the help of a button
-
+//Assignment : lab01
+//topic : blinking leds 
 var b = require('bonescript');
 
 var state = b.LOW;
@@ -11,8 +10,8 @@ b.pinMode("USR0", b.OUTPUT);
 b.pinMode("USR1", b.OUTPUT);
 b.pinMode("P9_12", b.OUTPUT);
 b.pinMode("P9_13", b.OUTPUT);
-b.pinMode("P9_16", b.INPUT);
-setInterval(check, 1);
+//b.pinMode("P9_14", b.INPUT);
+setInterval(toggle, 1000);
 
 function toggle() {
     b.digitalWrite("P9_13", state);
@@ -21,19 +20,4 @@ function toggle() {
     else state = b.LOW;
     b.digitalWrite("P9_12", state);
     b.digitalWrite("USR0", state);
-}
-
-function check(){
-    b.digitalRead("P9_16",checkButton);
-}
-
-function checkButton(x) {
-  if(x.value == 1){
-    b.digitalWrite("P9_12", b.HIGH);
-    b.digitalWrite("P9_13", b.LOW);
-  }
-  else {
-    b.digitalWrite("P9_12", b.LOW);
-    b.digitalWrite("P9_13", b.HIGH);
-  }
 }

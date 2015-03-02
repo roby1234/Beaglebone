@@ -1,3 +1,7 @@
+//Name : Onkar Singh
+//Roll no. : B13321
+//Assignment : hw01
+
 #include "iostream"
 #include "cstdlib"
 #include "stdlib.h"
@@ -5,7 +9,7 @@
 
 using namespace std;
 
-void print_matrix(char** matrix , int a , int b){
+void print_matrix(char** matrix , int a , int b){		//printing the matrix in the terminal
 	cout<<endl;
 	for (int i = 0; i < a; ++i){
 		for (int j = 0; j < b; ++j){
@@ -37,7 +41,7 @@ int main(){
 	cin>>x>>y;
 	while(1){
 		if(x>=(m+1) || y>=(n+1) || x<1 || y<1){
-			cout <<"Wrong I/p\nRe-enter the values of x and y\n";
+			cout <<"Wrong I/p\nRe-enter the values of x and y\n";			//checking for the bounds
 			cin>>x>>y;
 		}
 		else
@@ -93,6 +97,6 @@ int main(){
 				cout << "Wrong Input\nPlay it carefully pal\n";
 		}	
 		print_matrix(matrix , m+2 , n+2);
-		cout << "\n\nCurrent position -> Row : "<<x<<" Col : "<<y<<endl<<endl;
+		cout << "\n\nCurrent position -> Row : "<<x<<" Col : "<<y<<endl<<endl;			//printing current position of the pointer
 	}while(p != 'q');
 } 
