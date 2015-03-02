@@ -1,3 +1,14 @@
+# Comments from Mark A. Yoder
+#
+# 0 dts file - Missing
+# 5 comment block
+# 0 Debian release names - Jessie.txt is missing
+# 0 Debian package count before and after adding jessie - Missing
+# 0 htop versions before and after jessie - Missing
+
+# Grade:  05/25
+#######################################################
+
 To 	: Mr.Mark A Yoder
 
 From 	: Onkar Singh(B13321)						
