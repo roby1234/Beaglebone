@@ -1,3 +1,18 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+5 Something extra 
+5 Respond to switch
+5 ReadMe.txt    - Please list each file you want me to look at and note what each does.
+5 Not late
+
+Be careful, when you added your name at the beginning of the files you broke the code.
+
+
+Grade: 25/25
+
+=======================================
+
 To: Mark A Yoder
 From: Onkar Singh
 Date: 23rd September, 2015

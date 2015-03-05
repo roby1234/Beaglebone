@@ -1,3 +1,18 @@
+#Comment from Mark A. Yoder
+
+# Demo       5
+# ReadMe.txt 3
+# Code       5 - Looks like other's code - Where's you encoder code?
+
+
+Grade:  13/25
+
+================================================
+I've seen several ReadMe's that look just like yours.  Did you write the original?
+I've also see several joystick.js's that look like yours. Did you write the original?
+If so, I'll give you full credit.
+
+
 To: Mark A Yoder
 From: Onkar Singh
 Date: 23rd September, 2015
