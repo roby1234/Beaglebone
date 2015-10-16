@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+5  Memory Map 
+5  mmap2.c  
+4  gpioThru.c - Compile time errors
+0  Proposal		- Missing
+0  Not Late
+
+Grade 14/25
+
+------------------------------------------------
+
 To: Mark A Yoder
 From: Onkar Singh
 Date: 10th October, 2015
