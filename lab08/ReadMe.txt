@@ -1,3 +1,15 @@
+# Comments from Mark A. Yoder
+
+5   hello2.c
+6   Makefile
+0   Text from /var/log/kern.log
+6   ReadMe.txt - Well done
+5   Not Late
+
+Grade 22/25
+
+------------------------------------------------
+
 To: Mark A Yoder
 From: Onkar Singh
 Date: 3rd October, 2015
