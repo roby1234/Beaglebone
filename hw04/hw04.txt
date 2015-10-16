@@ -1,0 +1,19 @@
+To: Mark A Yoder
+From: Onkar Singh
+Date: 10th October, 2015
+Subject: Homework 04 Submission
+Partner's Name : Guntuku Vikas
+Name: Onkar Singh
+Roll No.: B13321
+
+	The purpose of Homework 3 is to come up with at least 3 project ideas related to BeagleBone, Arduino and similar devices.
+	
+1)My first Idea is related to a door operation system, controlled by means of a mobile, an everyday tool, and wifi. It so happens that we are not home always and someone like relatives,friends and others might turn up and you might have to come back for them. So instead of that, just a small click from your mobile would do the trick.This can be achieved by using a raspberry pi along with wireless connector.
+
+2)My Second Idea is related to an Electronic Voting Machine (EVM) machine, which accepts a person's fingerprint as identification. This allows authenticity of the person casting his vote, and ensures that the vote is cast only once.
+
+3)My Third Idea is to create a "Smart Home", which enables the optimal usage of the devices by remotely controlling them automatically according to the density of people in an area, in this case the 'home', by means of a device like arduino.
+
+4)4th idea, a library assistant which searches for a given book and gets it to a collecting spot.I have already experimented on this idea and could get some results by using an arduino. A rasp. pi would have given better results.
+
+
