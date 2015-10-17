@@ -1,3 +1,16 @@
+# Comments from Mark A. Yoder
+
+5 blinkled.js
+0 input.js      - missing
+0 some variation - missing
+5 ReadMe.txt
+5 Not late
++2 Fritzing
+
+Grade:  17/25
+
+========================================
+
 To: Mark A Yoder
 From: Onkar Singh
 Date: 23rd September, 2015
