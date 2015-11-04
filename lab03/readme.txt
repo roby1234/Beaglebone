@@ -1,3 +1,17 @@
+# Comments from Mark A. Yoder
+
+5	Analog In
+5	Analog Out
+4	Combine In and Out      - File has an error in it.
+0	jsfiddle Local       - Don't see your code for this
+0	Add a button (bonus)
+5	ReadMe.txt
+
+Grade:  19/25
+
+========================================
+
+ 														Date:16/09/2015
 To: Mark A Yoder
 From: Onkar Singh
 Date: 23rd September, 2015

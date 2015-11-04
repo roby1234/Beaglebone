@@ -1,3 +1,19 @@
+We submitted the proposal on time, there was some confusion. 
+I shared the folder on my google drive with a different email id of yours.
+And next day we clearified in your office, if you remember.
+
+# Comments from Mark A. Yoder
+
+5  Memory Map 
+5  mmap2.c  
+4  gpioThru.c - Compile time errors
+0  Proposal		- Missing
+0  Not Late
+
+Grade 14/25
+
+------------------------------------------------
+
 To: Mark A Yoder
 From: Onkar Singh
 Date: 10th October, 2015
