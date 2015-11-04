@@ -1,3 +1,5 @@
+We submitted the proposal on time, there was some confusion. I shared the folder on my google drive with a different email id of yours. And next day we clearified in your office, if you remember.
+
 # Comments from Mark A. Yoder
 
 5  Memory Map 
