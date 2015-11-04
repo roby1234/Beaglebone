@@ -114,22 +114,22 @@ function onY(x) {
 function check (){
     if(q <= 10 ){
         // b.i2cWriteBytes(port, 0x00, blank);
-       b.i2cWriteBytes(port, 0x01, [0x0]);   //1st column and all leds
+       b.i2cWriteBytes(port, 0x01, [0x0]);   //1st column and all leds red
     }
     else if(w <= 10){
         // b.i2cWriteBytes(port, 0x00, blank);
-        b.i2cWriteBytes(port, 0x03, [0xff]);   //2nd column and all leds
+        b.i2cWriteBytes(port, 0x03, [0xff]);   //2nd column and all leds red
     }
     else if(q >= 90){
         // b.i2cWriteBytes(port, 0x00, blank);
-        b.i2cWriteBytes(port, 0x05, [0xff]);   //3rd column and all leds
+        b.i2cWriteBytes(port, 0x05, [0xff]);   //3rd column and all leds red
     }
     else if(w >= 90){
         // b.i2cWriteBytes(port, 0x00, blank);
-        b.i2cWriteBytes(port, 0x09, [0xff]);   //4th column and all leds
+        b.i2cWriteBytes(port, 0x09, [0xff]);   //4th column and all leds red
     }
     else{
-        b.i2cWriteBytes(port, 0x00, blank);  // column and all leds
+        b.i2cWriteBytes(port, 0x00, blank);  // 
     }
 }
 
